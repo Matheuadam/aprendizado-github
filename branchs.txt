@@ -1,0 +1,15 @@
+## O que são branchs?
+
+- Branchs(ramos) servem para desenvolvermos features isoladas
+- A branch master é a principal
+- É possível misturar as branchs usando o comando <merge>
+
+**git branch —>** Mostra os ramos(branchs) criados
+
+**git branch <nome> —>** Cria uma nova branch
+
+**git branch -d <nome> —>** Remove uma  branch
+
+**git checkout -b apollo12.txt —>** Criar nova branch e fazer switched
+
+**git merge vostok1.txt —>** Adiciona as modificações da branch selecionada a atual.
