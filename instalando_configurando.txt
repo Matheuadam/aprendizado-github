@@ -1,0 +1,15 @@
+# O que é git?
+
+- É um sistema de controle de versão de arquivos
+- Com ele podemos desenvolver projetos colaborativos com facilidade
+- registra diferente modificações de um arquivo
+- Pode recuperar um arquivo anterior
+
+---
+
+# O que é github?
+
+- Serviço para hospedar projetos git
+- Permite projetos privados ou open source
+- Ajuda a desenvolver um networking entre progamadores
+- Portfólio online
