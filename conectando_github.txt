@@ -1,0 +1,9 @@
+## Comando GITHUB
+
+**git clone** <link> —> clona um repositorio em sua máquina
+
+**git remote add origin** <link> —> Irá linkar o seu projeto remotamente no github 
+
+**git push origin <branch>** —> hospeda projeto no github seguindo a origem especificada
+
+**git pull origin <branch>** —> Atualiza o projeto de acordo com as ultimas modificações
