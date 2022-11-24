@@ -1,0 +1,21 @@
+## [Comandos GIT](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+
+**git init** —> Cria um novo repositorio
+
+**git status** —> Mostra estado dos arquivos
+
+**git add** —> Para incluir os arquivos que serão commitados (área de seleção)
+
+**git commit -m** <’descreva alteração feita’>  —> realiza commit
+
+**git log** —> mostra históricos dos commits
+
+**git log  - -pretty=oneline**  —> mostra os commits deforma mais organizada
+
+**git diff** ou **git diff <nomearq>** —> mostra as alterações feitas nos arquivos
+
+**git commit - -amend** —> Para alterar descrição do ultimo commit realizado
+
+**git reset HEAD apollo12.txt** —> Para retirar arq ou modificação da área de seleção
+
+**git checkout -- apollo12.txt** —> restaura o arquivo para o último commit
